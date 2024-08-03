@@ -15,7 +15,7 @@ This project is a Library Book Collection Application developed using Java Sprin
 * Library staff have additional privileges such as adding and removing books.
 
 # Class Diagram!
-[](C:\Users\uthma\OneDrive\Desktop\uml%20diagram.png)
+[](sers\uthma\OneDrive\Desktop\uml%20diagram.png)
 [](C:\Users\uthma\OneDrive\Desktop\uml%20class.png)
 
 
@@ -39,10 +39,10 @@ This project is a Library Book Collection Application developed using Java Sprin
 
 ## Extra links
 
-### Trello[](https://trello.com/invite/b/66844b4e22c9cdc2c8a05281/ATTI731db40ace3db5bc3c92fa6be10f5a56BCE59D7C/ironhack-final-project)
+### Trello:https://trello.com/b/6xFkRM1D/ironhack-final-project
 
 
-### Presentation Slides[](https://docs.google.com/presentation/d/16BoGna934qa6JtOK17yrBIl_GhnX-E6poH-BQfD8Q0k/edit?usp=sharing)
+### Presentation Slides:https://docs.google.com/presentation/d/16BoGna934qa6JtOK17yrBIl_GhnX-E6poH-BQfD8Q0k/edit?usp=sharing
 
 ## Future work
 
