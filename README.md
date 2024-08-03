@@ -15,8 +15,10 @@ This project is a Library Book Collection Application developed using Java Sprin
 * Library staff have additional privileges such as adding and removing books.
 
 # Class Diagram!
-[](sers\uthma\OneDrive\Desktop\uml%20diagram.png)
-[](C:\Users\uthma\OneDrive\Desktop\uml%20class.png)
+![uml diagram](https://github.com/user-attachments/assets/4607dfee-a15b-4389-9957-8b23a0fbcf11)
+![uml class](https://github.com/user-attachments/assets/036bc893-d096-4f14-b8e2-822d73166d93)
+
+
 
 
 
